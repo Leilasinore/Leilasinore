@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am currently working on  a couple Web development related projects(check my repos)<br>I am looking to collaborate on innovative solutions on climate change .<br>I am currently learning backend development and UI UX.<br>Ask me about React, JavaScript and python.
+I am currently working on  backend development with Django,Django Rest Framework,NodeJS and Java <br>I am looking to explore opportunities around my stack.<br>I am also learning  UI UX and Angular.<br>Ask me about React, JavaScript and python,Django,Node JS,System design and data structures and algorithms.
 
 
 ## 🌐 Socials:
