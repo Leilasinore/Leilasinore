@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am currently working on  a Natural hair startup application using React and Django-REST framework <br>I am looking to explore opportunities around my stack.<br>I am also learning  UI UX and Angular.<br>Ask me about React, JavaScript and python,Django,Node JS,System design and data structures and algorithms.
+I am fullstack dev <br><br>My stack is React, JavaScript and python,Django,Node JS,Java,Spring core,Spring Boot.I am looking to explore opportunities around my stack.<br>.
 
 
 
