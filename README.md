@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am fullstack dev <br><br>My stack is React, JavaScript and python,Django,Node JS,Java,Spring core,Spring Boot.I am looking to explore opportunities around my stack.<br>.
+I am a fullstack dev <br><br>My stack is React, JavaScript and python,Django,Node JS,Java,Spring core,Spring Boot.I am looking to explore opportunities around my stack.<br>
 
 
 
