@@ -1,7 +1,14 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am a fullstack dev <br><br>My stack is React, JavaScript and python,Django,Node JS,Java,Spring core,Spring Boot.I am looking to explore opportunities around my stack.<br>
+<br> I'm a passionate and curious Software Engineer with a strong foundation in both frontend and backend development.
+I have hands-on experience building modern web applications using technologies like React, TypeScript, Java, and Spring Boot.
+I'm also expanding my skills in DevOps, working with tools like Jenkins, Docker, and Kubernetes, and learning more about AWS and Azure cloud platforms.
+
+I love solving real-world problems with clean, scalable code and I'm always eager to learn new technologies and best practices.
+Currently, I'm deepening my expertise in cloud computing, CI/CD pipelines, and systems design, while building projects that reflect my growth.
+
+Outside of coding, I’m passionate about continuous learning, reading books on technology, business strategy, and personal growth.<br>
 
 
 
